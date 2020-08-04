@@ -1,0 +1,131 @@
+body{
+  font-family: 'Montserrat'
+}
+
+.navbar-brand{
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.jekma{
+  margin: 0 10px 30px 5px;
+}
+.headinggg{
+  font-family: 'Montserrat', sans-serif;
+  size: 3rem;
+  line-height: 1.5;
+  padding-bottom: 2rem;
+}
+.container-fluid{
+  padding: 3% 2%;
+}
+.title-image{
+  width: 40%;
+  transform: rotate(30deg);
+  position: absolute;
+  left: 20px;
+  top: 1px;
+}
+@media (max-width: 990px)
+{
+  .title-image{
+    width: 40%;
+    transform: rotate(0);
+    left: 20px;
+      top: 1px;
+  position: static;
+  }
+    #title{
+      text-align: center;
+    }
+}
+#features{
+    padding-top: 5rem;
+  position: relative;
+    background-color: #fff;
+    font-family: 'Montserrat'
+
+}
+p{
+  color: #8f8f8f;
+}
+.hira{
+  padding: 2rem 0;
+
+}
+.icon{
+  color: #ef8172;
+  margin-bottom: 2rem;
+}
+.icon:hover{
+  color: #ef8172;
+
+}
+.fa-check-circle,.fa-bullseye,.fa-heart {
+  font-size: 4em;
+  color: #ff4c68;
+}
+#testimonials{
+
+  text-align: center;
+  background-color: #ef8172;
+}
+h2{
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 2rem;
+  line-height: 1.5;
+  color: #fff;
+}
+.testi-image{
+  width: 10%;
+  border-radius: 100%;
+  margin : 10px;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.hihihi{
+  width: 15%;
+  padding: 20 20 20;
+  margin: 10px 20px ;
+}
+.carousel-item
+{
+  padding: 7% 15%;
+}
+#pricing{
+  padding: 5% 10%;
+  text-align: center;
+}
+#cta{
+  height: 200px;
+  text-align: center;
+  background-color: #ff4c68;
+  font-family: "Montserrat";
+  color: #fff;
+  font-weight: bolder;
+}
+.titis{
+margin-bottom: 40px;
+padding-top: 30px;
+
+}
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+.tilak{
+   text-align: center;
+   margin: 5px 10px;
+}
